@@ -1,4 +1,4 @@
-# random entertainment Games Using Python
+# Random Entertainment Games Using Python
 
 This is a beginner-friendly Python mini project that simulates a fun entertainment hub with multiple random games and activities.
 
